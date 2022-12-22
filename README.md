@@ -12,6 +12,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Contents](#contents)
   - [API Gateways](#api-gateways)
   - [Backup](#backup)
+  - [Books](#books)
+    - [Typescript](#typescript)
   - [Code versioning](#code-versioning)
     - [Changelog management](#changelog-management)
   - [Databases / Log management](#databases--log-management)
@@ -72,6 +74,12 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## Backup
 
 * [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
+
+## Books
+
+### Typescript
+
+* [typescript-book](https://github.com/basarat/typescript-book) - The definitive guide to TypeScript and possibly the best TypeScript book book. Free and Open Source.
 
 ## Code versioning
 
