@@ -35,3 +35,4 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## Text utils
 
 * [bat](https://github.com/sharkdp/bat) -  A cat(1) clone with syntax highlighting and Git integration.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively searches directories for a regex pattern while respecting your gitignore 
