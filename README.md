@@ -55,6 +55,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Terminals](#terminals)
     - [Multiplexers](#multiplexers)
   - [Text utils](#text-utils)
+  - [Virtualization / Containerization](#virtualization--containerization)
+    - [Misc](#misc-2)
 
 ## Code versioning
 
@@ -263,3 +265,9 @@ Tools that can't fit in any of the other categories.
 * [bat](https://github.com/sharkdp/bat) -  A cat(1) clone with syntax highlighting and Git integration.
 * [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor, Kakoune / Neovim inspired editor, written in Rust.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively searches directories for a regex pattern while respecting your gitignore 
+
+## Virtualization / Containerization
+
+### Misc
+
+* [footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines.
