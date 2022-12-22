@@ -26,7 +26,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   * [Test Helpers](#test-helpers)
   * [Puppet](#puppet)
   * [Python](#python)
-* [Secrets Management](#secrets-management)
+* [Security](#security)
+  * [Secrets Management](#secrets-management)
 * [Shells](#shells)
 * [Terminals](#terminals)
 * [Text utils](#text-utils)
@@ -110,7 +111,13 @@ Tools that can't fit in any of the other categories.
 
 * [pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. From frontend to backend.
 
-## Secrets management
+## Security
+
+### CTF
+
+* [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares.
+
+### Secrets management
 
 * [infisical](https://github.com/Infisical/infisical) - Open-source, E2EE, simple tool to manage and sync environment variables across your team and infrastructure.
 
