@@ -176,4 +176,5 @@ Tools that can't fit in any of the other categories.
 ## Text utils
 
 * [bat](https://github.com/sharkdp/bat) -  A cat(1) clone with syntax highlighting and Git integration.
+* [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor, Kakoune / Neovim inspired editor, written in Rust.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursively searches directories for a regex pattern while respecting your gitignore 
