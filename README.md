@@ -27,10 +27,11 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   * [CSS](#css)
   * [Go](#go)
   * [Image Generation](#image-generation)
-  * [Tasks Runners](#tasks-runners)
-  * [Test Helpers](#test-helpers)
+  * [Javascript](#javascript)
   * [Puppet](#puppet)
   * [Python](#python)
+  * [Tasks Runners](#tasks-runners)
+  * [Test Helpers](#test-helpers)
 * [Security](#security)
   * [Secrets Management](#secrets-management)
 * [Sources / Versions Management](#sources--versions-management)
@@ -117,15 +118,11 @@ Tools that can't fit in any of the other categories.
 
 * [d2](https://github.com/terrastruct/d2) - Modern diagram scripting language that turns text to diagrams.
 
-### Tasks runners
+### Javascript
 
-* [run](https://github.com/dbhi/run) - Yet another task execution/automation package for complex dependency graphs.
-* [task](https://github.com/go-task/task) - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
+#### Misc
 
-### Test Helpers
-
-* [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text.
-* [smocker](https://github.com/Thiht/smocker) - Simple and efficient HTTP mock server and proxy.
+* [bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. Written in `zig`.
 
 ### Puppet
 
@@ -146,6 +143,16 @@ Tools that can't fit in any of the other categories.
 #### Web development
 
 * [pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. From frontend to backend.
+
+### Tasks runners
+
+* [run](https://github.com/dbhi/run) - Yet another task execution/automation package for complex dependency graphs.
+* [task](https://github.com/go-task/task) - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
+
+### Test Helpers
+
+* [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text.
+* [smocker](https://github.com/Thiht/smocker) - Simple and efficient HTTP mock server and proxy.
 
 ## Security
 
