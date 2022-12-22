@@ -15,6 +15,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [Misc](#misc)
 * [Programming](#programming)
   * [Tasks Runners](#tasks-runners)
+  * [Test Helpers](#test-helpers)
   * [Python](#python)
 * [Secrets Management](#secrets-management)
 * [Shells](#shells)
@@ -48,6 +49,10 @@ Tools that can't fit in any of the other categories.
 ### Tasks runners
 
 * [task](https://github.com/go-task/task) - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
+
+### Test Helpers
+
+* [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text. 
 
 ### Python
 
