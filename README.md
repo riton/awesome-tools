@@ -9,6 +9,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## Contents
 
 * [Code Versioning](#code-versioning)
+* [Secrets Management](#secrets-management)
 * [Shells](#shells)
 * [Terminals](#terminals)
 * [Text utils](#text-utils)
@@ -18,6 +19,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Changelog management
 
 * [changie](https://github.com/miniscruff/changie) - Separate your changelog from commit messages without conflicts
+
+## Secrets management
+
+* [infisical](https://github.com/Infisical/infisical) - Open-source, E2EE, simple tool to manage and sync environment variables across your team and infrastructure.
 
 ## Shells
 
