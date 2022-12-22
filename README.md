@@ -9,6 +9,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## Contents
 
 * [Code Versioning](#code-versioning)
+* [Databases](#databases)
 * [Domain Management](#domain-management)
 * [Emailing](#emailing)
   * [Email Helpers](#email-helpers)
@@ -37,6 +38,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Changelog management
 
 * [changie](https://github.com/miniscruff/changie) - Separate your changelog from commit messages without conflicts
+
+## Databases
+
+* [parseable](https://github.com/parseablehq/parseable) - Lightweight, high performance, cloud native alternative to Elasticsearch.
 
 ## Domain Management
 
