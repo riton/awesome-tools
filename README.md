@@ -292,6 +292,7 @@ Tools that can't fit in any of the other categories.
 
 ## Sources / Versions Management
 
+* [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service.
 * [gitoxide](https://github.com/Byron/gitoxide) - Idiomatic, lean, fast & safe pure Rust implementation of Git.
 
 ## Shells
