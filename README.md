@@ -14,6 +14,9 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Backup](#backup)
   - [Books](#books)
     - [Typescript](#typescript)
+  - [CLIs](#clis)
+    - [JSON](#json)
+    - [HTTP Clients](#http-clients)
   - [Code versioning](#code-versioning)
     - [Changelog management](#changelog-management)
   - [Databases / Log management](#databases--log-management)
@@ -22,7 +25,6 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Email helpers](#email-helpers)
   - [File sharing](#file-sharing)
     - [Photo galleries](#photo-galleries)
-  - [HTTP Clients / CLI](#http-clients--cli)
   - [Images / Videos Processing](#images--videos-processing)
     - [Subtitles](#subtitles)
     - [Videos Processing](#videos-processing)
@@ -82,6 +84,16 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 * [typescript-book](https://github.com/basarat/typescript-book) - The definitive guide to TypeScript and possibly the best TypeScript book book. Free and Open Source.
 
+## CLIs
+
+### JSON
+
+* [jid](https://github.com/simeji/jid) - JSON incremental digger.
+
+### HTTP Clients
+
+* [httpstat](https://github.com/reorx/httpstat) - `curl` statistics made simple.
+
 ## Code versioning
 
 ### Changelog management
@@ -112,10 +124,6 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Photo galleries
 
 * [librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
-
-## HTTP Clients / CLI
-
-* [httpstat](https://github.com/reorx/httpstat) - `curl` statistics made simple.
 
 ## Images / Videos Processing
 
