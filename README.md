@@ -21,6 +21,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [Misc](#misc)
 * [Monitoring](#monitoring)
   * [Network Monitoring](#network-monitoring)
+* [Notification](#notification)
 * [Orchestration / Task Scheduling](#orchestration--task-scheduling)
   * [Task scheduling](#task-scheduling)
 * [Programming](#programming)
@@ -90,6 +91,10 @@ Tools that can't fit in any of the other categories.
 ### Network monitoring
 
 * [sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease.
+
+## Notification
+
+* [ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST.
 
 ## Orchestration / Task Scheduling
 
