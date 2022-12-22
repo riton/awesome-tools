@@ -56,6 +56,7 @@ Tools that can't fit in any of the other categories.
 ### Sidecards
 
 * [atuin](https://github.com/ellie/atuin) - Magical shell history by replacing your existing shell history with a SQLite database, and records additional context for your commands
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - Smarter cd command, inspired by `z` and `autojump`.
 
 ## Terminals
 
