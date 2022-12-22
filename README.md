@@ -46,6 +46,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Authorization](#authorization)
     - [C.A / PKI](#ca--pki)
     - [CTF](#ctf)
+    - [Encryption](#encryption)
     - [Misc](#misc-1)
     - [VPN](#vpn)
     - [WAF](#waf)
@@ -243,6 +244,10 @@ Tools that can't fit in any of the other categories.
 ### CTF
 
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares.
+
+### Encryption
+
+* [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 
 ### Misc
 
