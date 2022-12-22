@@ -151,6 +151,10 @@ Tools that can't fit in any of the other categories.
 
 * [goose](https://github.com/pressly/goose) - Database migration tool. Supports SQL migrations and Go functions.
 
+#### Documentation <!-- omit in toc -->
+
+* [godoc-tricks](https://github.com/fluhus/godoc-tricks) - A comprehensive godoc guide.
+
 #### Libraries <!-- omit in toc -->
 
 * [addlicense](https://github.com/google/addlicense) - A program which ensures source code files have copyright license headers by scanning directory patterns recursively.
