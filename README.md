@@ -126,9 +126,16 @@ Tools that can't fit in any of the other categories.
 
 ### Go
 
-* [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions.
 * [dns](https://github.com/miekg/dns) - DNS library in Go.
 * [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector to help avoid Goroutine leaks.
+
+#### CLI <!-- omit in toc -->
+
+* [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions.
+  
+#### Web development <!-- omit in toc -->
+
+* [goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React or Vue in seconds.
 
 #### Test utils <!-- omit in toc -->
 
