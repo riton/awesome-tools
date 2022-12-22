@@ -19,6 +19,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Emailing](#emailing)
     - [Email helpers](#email-helpers)
   - [File sharing](#file-sharing)
+    - [Photo galleries](#photo-galleries)
   - [Images / Videos Processing](#images--videos-processing)
     - [Subtitles](#subtitles)
     - [Videos Processing](#videos-processing)
@@ -97,6 +98,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## File sharing
 
 * [sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+
+### Photo galleries
+
+* [librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 
 ## Images / Videos Processing
 
