@@ -11,7 +11,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [Code Versioning](#code-versioning)
 * [Shells](#shells)
 * [Terminals](#terminals)
-
+* [Text utils](#text-utils)
 
 ## Code versioning
 
@@ -31,3 +31,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 * [zellij](https://github.com/zellij-org/zellij) - At its core, `zellij` is a terminal multiplexer (similar to `tmux` and GNU `screen`), but very simple to use and user-friendly.
 
+
+## Text utils
+
+* [bat](https://github.com/sharkdp/bat) -  A cat(1) clone with syntax highlighting and Git integration.
