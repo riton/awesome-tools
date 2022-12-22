@@ -53,7 +53,8 @@ Tools that can't fit in any of the other categories.
 
 ### Test Helpers
 
-* [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text. 
+* [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text.
+* [smocker](https://github.com/Thiht/smocker) - Simple and efficient HTTP mock server and proxy.
 
 ### Puppet
 
