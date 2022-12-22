@@ -16,6 +16,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [Programming](#programming)
   * [Tasks Runners](#tasks-runners)
   * [Test Helpers](#test-helpers)
+  * [Puppet](#puppet)
   * [Python](#python)
 * [Secrets Management](#secrets-management)
 * [Shells](#shells)
@@ -53,6 +54,10 @@ Tools that can't fit in any of the other categories.
 ### Test Helpers
 
 * [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text. 
+
+### Puppet
+
+* [puppet-modulator](https://cc-in2p3-puppet-master-tools.pages.in2p3.fr/puppet-modulator/) - High level wrapper that allows to quickly edit your module `metadata.json` content and wraps `git-flow` with common Puppet module edition workflows.
 
 ### Python
 
