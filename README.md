@@ -32,6 +32,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Programming](#programming)
     - [CSS](#css)
     - [Go](#go)
+        - [Config management](#config-management)
+        - [User Interface](#user-interface)
     - [Image generation](#image-generation)
     - [Javascript](#javascript)
     - [Puppet](#puppet)
@@ -146,9 +148,17 @@ Tools that can't fit in any of the other categories.
 
 #### Libraries <!-- omit in toc -->
 
-* [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework. Just **awesome** !
 * [certmagic](https://github.com/caddyserver/certmagic) - CertMagic is the most mature, robust, and powerful ACME client integration for Go... and perhaps ever.
 * [dns](https://github.com/miekg/dns) - DNS library in Go.
+
+##### Config management
+
+* [koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+
+##### User Interface
+
+* [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework. Just **awesome** !
+
 
 #### Web development <!-- omit in toc -->
 
