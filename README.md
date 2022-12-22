@@ -28,6 +28,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Notification](#notification)
   - [Orchestration / Task Scheduling](#orchestration--task-scheduling)
     - [Task scheduling](#task-scheduling)
+  - [Productivity](#productivity)
   - [Programming](#programming)
     - [CSS](#css)
     - [Go](#go)
@@ -121,6 +122,10 @@ Tools that can't fit in any of the other categories.
 
 * [cheek](https://github.com/datarootsio/cheek) - Crontab-like scHeduler for Effective Execution of tasKs based on YAML files.
 * [dagu](https://github.com/yohamta/dagu) - Cron alternative with a Web UI, but with much more capabilities.
+
+## Productivity
+
+* [joplin](https://github.com/laurent22/joplin) - Open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## Programming
 
