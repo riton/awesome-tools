@@ -69,6 +69,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 ## Images / Videos Processing
 
+### Subtitles
+
+* [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
+
 ### Videos Processing
 
 * [ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - FFmpeg Command Generator Web UI
