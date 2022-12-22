@@ -37,7 +37,9 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Python](#python)
     - [Tasks runners](#tasks-runners)
     - [Test Helpers](#test-helpers)
-  - [Project templating](#project-templating)
+  - [Templating](#templating)
+    - [Files templating](#files-templating)
+    - [Projects templating](#projects-templating)
   - [Security](#security)
     - [Authorization](#authorization)
     - [C.A / PKI](#ca--pki)
@@ -181,7 +183,13 @@ Tools that can't fit in any of the other categories.
 * [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text.
 * [smocker](https://github.com/Thiht/smocker) - Simple and efficient HTTP mock server and proxy.
 
-## Project templating
+## Templating
+
+### Files templating
+
+* [gomplate](https://github.com/hairyhenderson/gomplate) - Flexible command line tool for template rendering. Supports lots of local and remote datasources.
+
+### Projects templating
 
 * [cookicutter](https://github.com/cookiecutter/cookiecutter) - Cross-platform command-line utility that creates projects from project templates.
 * [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
