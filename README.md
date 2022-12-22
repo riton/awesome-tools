@@ -109,6 +109,8 @@ Tools that can't fit in any of the other categories.
 
 ### Puppet
 
+* [catalog-diff](https://github.com/voxpupuli/puppet-catalog_diff) - A tool to diff Puppet catalogs.
+* [catalog-diff-viewer](https://github.com/voxpupuli/puppet-catalog-diff-viewer) - A viewer for the puppet-catalog-diff tool.
 * [puppet-modulator](https://cc-in2p3-puppet-master-tools.pages.in2p3.fr/puppet-modulator/) - High level wrapper that allows to quickly edit your module `metadata.json` content and wraps `git-flow` with common Puppet module edition workflows.
 
 ### Python
