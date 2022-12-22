@@ -55,6 +55,10 @@ Tools that can't fit in any of the other categories.
 
 * [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 
+#### Profiling
+
+* [scalene](https://github.com/plasma-umass/scalene) - High-performance, high-precision CPU, GPU, and memory profiler for Python 
+
 #### Web development
 
 * [pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. From frontend to backend.
