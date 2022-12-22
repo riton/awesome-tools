@@ -20,6 +20,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   * [Network Monitoring](#network-monitoring)
 * [Programming](#programming)
   * [CSS](#css)
+  * [Go](#go)
   * [Image Generation](#image-generation)
   * [Tasks Runners](#tasks-runners)
   * [Test Helpers](#test-helpers)
@@ -73,6 +74,10 @@ Tools that can't fit in any of the other categories.
 ### CSS
 
 * [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Fully responsive administration template based on Bootstrap 4.6 framework.
+
+### Go
+
+* [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector to help avoid Goroutine leaks.
 
 ### Image generation
 
