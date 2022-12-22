@@ -11,6 +11,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [Code Versioning](#code-versioning)
 * [File Sharing](#file-sharing)
 * [Misc](#misc)
+* [Programming](#programming)
 * [Secrets Management](#secrets-management)
 * [Shells](#shells)
 * [Terminals](#terminals)
@@ -31,6 +32,14 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 Tools that can't fit in any of the other categories.
 
 * [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder. With multiple 3rd party tools integration. Just **awesome**.
+
+## Programming
+
+### Python
+
+#### Web development
+
+* [pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. From frontend to backend.
 
 ## Secrets management
 
