@@ -44,6 +44,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Authorization](#authorization)
     - [C.A / PKI](#ca--pki)
     - [CTF](#ctf)
+    - [Misc](#misc-1)
     - [VPN](#vpn)
     - [WAF](#waf)
     - [Secrets management](#secrets-management)
@@ -212,6 +213,10 @@ Tools that can't fit in any of the other categories.
 ### CTF
 
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares.
+
+### Misc
+
+* [smallstep CLI](https://github.com/smallstep/cli) - Zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.****
 
 ### VPN
 
