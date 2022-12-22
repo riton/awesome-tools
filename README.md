@@ -9,6 +9,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## Contents
 
 * [Code Versioning](#code-versioning)
+* [Misc](#misc)
 * [Secrets Management](#secrets-management)
 * [Shells](#shells)
 * [Terminals](#terminals)
@@ -19,6 +20,12 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Changelog management
 
 * [changie](https://github.com/miniscruff/changie) - Separate your changelog from commit messages without conflicts
+
+## Misc
+
+Tools that can't fit in any of the other categories.
+
+* [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder. With multiple 3rd party tools integration. Just **awesome**.
 
 ## Secrets management
 
