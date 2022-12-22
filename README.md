@@ -82,6 +82,10 @@ Tools that can't fit in any of the other categories.
 * [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions.
 * [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector to help avoid Goroutine leaks.
 
+#### Test utils
+
+* [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests. Awesome alternative to `reflect.DeepEqual`.
+
 ### Image generation
 
 * [d2](https://github.com/terrastruct/d2) - Modern diagram scripting language that turns text to diagrams.
