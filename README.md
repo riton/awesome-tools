@@ -42,6 +42,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Files templating](#files-templating)
     - [Projects templating](#projects-templating)
   - [Security](#security)
+    - [Audit / Response](#audit--response)
     - [Authorization](#authorization)
     - [C.A / PKI](#ca--pki)
     - [CTF](#ctf)
@@ -209,6 +210,10 @@ Tools that can't fit in any of the other categories.
 * [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 
 ## Security
+
+### Audit / Response
+
+* [gerberos](https://github.com/bitflipp/gerberos) - ipset/nftables-based banning utility.
 
 ### Authorization
 
