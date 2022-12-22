@@ -133,6 +133,10 @@ Tools that can't fit in any of the other categories.
 
 * [cerbos](https://github.com/cerbos/cerbos) - Language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 
+### C.A / PKI
+
+* [mkcert](https://github.com/FiloSottile/mkcert) - Simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
 ### CTF
 
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares.
