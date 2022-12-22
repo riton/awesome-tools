@@ -28,6 +28,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Videos Processing](#videos-processing)
   - [Linux systems](#linux-systems)
     - [Debian like](#debian-like)
+  - [Message Queues / Brokers](#message-queues--brokers)
   - [Misc](#misc)
   - [Monitoring](#monitoring)
     - [Network monitoring](#network-monitoring)
@@ -131,6 +132,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Debian like
 
 * [aptly](https://github.com/aptly-dev/aptly) - Debian repository management tool.
+
+## Message Queues / Brokers
+
+* [nsq](https://github.com/nsqio/nsq) - Realtime distributed messaging platform.
 
 ## Misc
 
