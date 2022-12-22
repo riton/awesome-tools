@@ -18,6 +18,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [Monitoring](#monitoring)
   * [Network Monitoring](#network-monitoring)
 * [Programming](#programming)
+  * [Image Generation](#image-generation)
   * [Tasks Runners](#tasks-runners)
   * [Test Helpers](#test-helpers)
   * [Puppet](#puppet)
@@ -62,6 +63,10 @@ Tools that can't fit in any of the other categories.
 * [sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease.
 
 ## Programming
+
+### Image generation
+
+* [d2](https://github.com/terrastruct/d2) - Modern diagram scripting language that turns text to diagrams.
 
 ### Tasks runners
 
