@@ -9,6 +9,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## Contents
 
 * [Code Versioning](#code-versioning)
+* [Domain Management](#domain-management)
 * [Emailing](#emailing)
   * [Email Helpers](#email-helpers)
 * [File Sharing](#file-sharing)
@@ -34,6 +35,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Changelog management
 
 * [changie](https://github.com/miniscruff/changie) - Separate your changelog from commit messages without conflicts
+
+## Domain Management
+
+* [mokey](https://github.com/ubccr/mokey) - FreeIPA self-service account management portal.
 
 ## Emailing
 
