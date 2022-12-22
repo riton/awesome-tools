@@ -4,10 +4,20 @@
 
 Curated list of awesome tools I'm using or plan to use.
 
+Why another _awesome list_ you asked ? To keep track of the various tools I'm discovering or using. In a single place and easily editable.
+
 ## Contents
 
+* [Code Versioning](#codeversioning)
 * [Shells](#shells)
 * [Terminals](#terminals)
+
+
+## Code versioning
+
+### Changelog management
+
+* [changie](https://github.com/miniscruff/changie) - Separate your changelog from commit messages without conflicts
 
 ## Shells
 
@@ -20,3 +30,4 @@ Curated list of awesome tools I'm using or plan to use.
 ### Multiplexers
 
 * [zellij](https://github.com/zellij-org/zellij) - At its core, `zellij` is a terminal multiplexer (similar to `tmux` and GNU `screen`), but very simple to use and user-friendly.
+
