@@ -78,6 +78,7 @@ Tools that can't fit in any of the other categories.
 
 ### Go
 
+* [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions.
 * [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector to help avoid Goroutine leaks.
 
 ### Image generation
