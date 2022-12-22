@@ -20,6 +20,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Email helpers](#email-helpers)
   - [File sharing](#file-sharing)
     - [Photo galleries](#photo-galleries)
+  - [HTTP Clients / CLI](#http-clients--cli)
   - [Images / Videos Processing](#images--videos-processing)
     - [Subtitles](#subtitles)
     - [Videos Processing](#videos-processing)
@@ -102,6 +103,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Photo galleries
 
 * [librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
+
+## HTTP Clients / CLI
+
+* [httpstat](https://github.com/reorx/httpstat) - `curl` statistics made simple.
 
 ## Images / Videos Processing
 
