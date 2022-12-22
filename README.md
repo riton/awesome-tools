@@ -108,6 +108,7 @@ Tools that can't fit in any of the other categories.
 
 * [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better `df` alternative.
 * [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder. With multiple 3rd party tools integration. Just **awesome**.
+* [viddy](https://github.com/sachaos/viddy) - Modern watch command. Time machine and pager etc.
 
 ## Monitoring
 
