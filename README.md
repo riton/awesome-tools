@@ -8,7 +8,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 ## Contents
 
-* [Code Versioning](#codeversioning)
+* [Code Versioning](#code-versioning)
 * [Shells](#shells)
 * [Terminals](#terminals)
 
