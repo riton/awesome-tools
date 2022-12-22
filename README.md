@@ -12,6 +12,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [File Sharing](#file-sharing)
 * [Misc](#misc)
 * [Programming](#programming)
+  * [Python](#python)
 * [Secrets Management](#secrets-management)
 * [Shells](#shells)
 * [Terminals](#terminals)
