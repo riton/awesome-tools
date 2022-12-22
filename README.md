@@ -29,6 +29,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   * [Python](#python)
 * [Security](#security)
   * [Secrets Management](#secrets-management)
+* [Sources / Versions Management](#sources--versions-management)
 * [Shells](#shells)
 * [Terminals](#terminals)
 * [Text utils](#text-utils)
@@ -133,6 +134,10 @@ Tools that can't fit in any of the other categories.
 ### Secrets management
 
 * [infisical](https://github.com/Infisical/infisical) - Open-source, E2EE, simple tool to manage and sync environment variables across your team and infrastructure.
+
+## Sources / Versions Management
+
+* [gitoxide](https://github.com/Byron/gitoxide) - Idiomatic, lean, fast & safe pure Rust implementation of Git.
 
 ## Shells
 
