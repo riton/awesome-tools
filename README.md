@@ -177,6 +177,7 @@ Tools that can't fit in any of the other categories.
 
 #### Web development <!-- omit in toc -->
 
+* [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production.
 * [pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. From frontend to backend.
 
 ### Tasks runners
