@@ -52,6 +52,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Secrets management](#secrets-management)
   - [Sources / Versions Management](#sources--versions-management)
   - [Shells](#shells)
+    - [Prompts](#prompts)
     - [Sidecards](#sidecards)
   - [Terminals](#terminals)
     - [Multiplexers](#multiplexers)
@@ -265,6 +266,10 @@ Tools that can't fit in any of the other categories.
 * [gitoxide](https://github.com/Byron/gitoxide) - Idiomatic, lean, fast & safe pure Rust implementation of Git.
 
 ## Shells
+
+### Prompts
+
+* [bearings](https://github.com/liamg/bearings) - A fast, clean, customisable shell prompt for zsh, bash, fish, and more...
 
 ### Sidecards
 
