@@ -86,6 +86,7 @@ Tools that can't fit in any of the other categories.
 
 ### Tasks runners
 
+* [run](https://github.com/dbhi/run) - Yet another task execution/automation package for complex dependency graphs.
 * [task](https://github.com/go-task/task) - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
 
 ### Test Helpers
