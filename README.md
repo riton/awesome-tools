@@ -254,6 +254,10 @@ Tools that can't fit in any of the other categories.
 
 ### Python
 
+#### Command Execution <!-- omit in toc -->
+
+* [plumbum](https://github.com/tomerfiliba/plumbum) - Ever wished the compactness of shell scripts be put into a **real** programming language? Say hello to _Plumbum Shell Combinators_.
+
 #### Language <!-- omit in toc -->
 
 * [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
