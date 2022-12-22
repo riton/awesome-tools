@@ -1,4 +1,4 @@
-# riton's personal awesome tools list
+# My personal awesome tools list
 
 ![awesome](images/awesome_logo.webp)
 
