@@ -21,6 +21,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [Misc](#misc)
 * [Monitoring](#monitoring)
   * [Network Monitoring](#network-monitoring)
+* [Orchestration / Task Scheduling](#orchestration--task-scheduling)
+  * [Task scheduling](#task-scheduling)
 * [Programming](#programming)
   * [CSS](#css)
   * [Go](#go)
@@ -86,6 +88,12 @@ Tools that can't fit in any of the other categories.
 ### Network monitoring
 
 * [sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease.
+
+## Orchestration / Task Scheduling
+
+### Task scheduling
+
+* [cheek](https://github.com/datarootsio/cheek) - Crontab-like scHeduler for Effective Execution of tasKs based on YAML files.
 
 ## Programming
 
