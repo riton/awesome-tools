@@ -9,6 +9,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## Contents
 
 * [Code Versioning](#code-versioning)
+* [Emailing](#emailing)
+  * [Email Helpers](#email-helpers)
 * [File Sharing](#file-sharing)
 * [Images / Videos Processing](#images--videos-processing)
   * [Videos Processing](#videos-processing)
@@ -28,6 +30,12 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Changelog management
 
 * [changie](https://github.com/miniscruff/changie) - Separate your changelog from commit messages without conflicts
+
+## Emailing
+
+### Email helpers
+
+* [EmailAnalyzer](https://github.com/keraattin/EmailAnalyzer) - Analyze your suspicious emails and extract headers, links and hashes from the .eml file.
 
 ## File sharing
 
