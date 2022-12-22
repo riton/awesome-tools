@@ -146,8 +146,8 @@ Tools that can't fit in any of the other categories.
 
 #### Libraries <!-- omit in toc -->
 
-* [certmagic](https://github.com/caddyserver/certmagic) - CertMagic is the most mature, robust, and powerful ACME client integration for Go... and perhaps ever.
 * [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework. Just **awesome** !
+* [certmagic](https://github.com/caddyserver/certmagic) - CertMagic is the most mature, robust, and powerful ACME client integration for Go... and perhaps ever.
 * [dns](https://github.com/miekg/dns) - DNS library in Go.
 
 #### Web development <!-- omit in toc -->
