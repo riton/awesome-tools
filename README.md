@@ -144,6 +144,10 @@ Tools that can't fit in any of the other categories.
 
 * [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions.
 
+#### Databases <!-- omit in toc -->
+
+* [goose](https://github.com/pressly/goose) - Database migration tool. Supports SQL migrations and Go functions.
+
 #### Libraries <!-- omit in toc -->
 
 * [certmagic](https://github.com/caddyserver/certmagic) - CertMagic is the most mature, robust, and powerful ACME client integration for Go... and perhaps ever.
