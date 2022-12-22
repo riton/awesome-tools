@@ -176,6 +176,7 @@ Tools that can't fit in any of the other categories.
 
 ## Project templating
 
+* [cookicutter](https://github.com/cookiecutter/cookiecutter) - Cross-platform command-line utility that creates projects from project templates.
 * [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 
 ## Security
