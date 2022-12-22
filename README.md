@@ -10,7 +10,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 * [Code Versioning](#code-versioning)
 * [File Sharing](#file-sharing)
-* [Images / Videos Processing](#images-videos-processing)
+* [Images / Videos Processing](#images--videos-processing)
   * [Videos Processing](#videos-processing)
 * [Misc](#misc)
 * [Programming](#programming)
