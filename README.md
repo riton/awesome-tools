@@ -129,6 +129,10 @@ Tools that can't fit in any of the other categories.
 
 ## Security
 
+### Authorization
+
+* [cerbos](https://github.com/cerbos/cerbos) - Language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
+
 ### CTF
 
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares.
