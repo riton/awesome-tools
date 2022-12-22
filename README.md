@@ -152,6 +152,7 @@ Tools that can't fit in any of the other categories.
 #### Libraries <!-- omit in toc -->
 
 * [certmagic](https://github.com/caddyserver/certmagic) - CertMagic is the most mature, robust, and powerful ACME client integration for Go... and perhaps ever.
+* [compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages.
 * [dns](https://github.com/miekg/dns) - DNS library in Go.
 
 ##### Config management <!-- omit in toc -->
