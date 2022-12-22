@@ -11,6 +11,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 - [My personal awesome tools list](#my-personal-awesome-tools-list)
   - [Contents](#contents)
   - [API Gateways](#api-gateways)
+  - [Backup](#backup)
   - [Code versioning](#code-versioning)
     - [Changelog management](#changelog-management)
   - [Databases / Log management](#databases--log-management)
@@ -65,6 +66,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## API Gateways
 
 * [helmet](https://github.com/Spacewalkio/Helmet) - A Lightweight Cloud Native API Gateway.
+
+## Backup
+
+* [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
 
 ## Code versioning
 
