@@ -9,7 +9,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ## Contents
 
 * [Code Versioning](#code-versioning)
-* [Databases](#databases)
+* [Databases](#databases--log-management)
 * [Domain Management](#domain-management)
 * [Emailing](#emailing)
   * [Email Helpers](#email-helpers)
@@ -44,9 +44,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 * [changie](https://github.com/miniscruff/changie) - Separate your changelog from commit messages without conflicts
 
-## Databases
+## Databases / Log management
 
 * [dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
+* [quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics.
 * [parseable](https://github.com/parseablehq/parseable) - Lightweight, high performance, cloud native alternative to Elasticsearch.
 * [sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 
