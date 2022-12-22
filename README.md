@@ -37,6 +37,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Python](#python)
     - [Tasks runners](#tasks-runners)
     - [Test Helpers](#test-helpers)
+  - [Project templating](#project-templating)
   - [Security](#security)
     - [Authorization](#authorization)
     - [C.A / PKI](#ca--pki)
@@ -172,6 +173,10 @@ Tools that can't fit in any of the other categories.
 
 * [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text.
 * [smocker](https://github.com/Thiht/smocker) - Simple and efficient HTTP mock server and proxy.
+
+## Project templating
+
+* [copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 
 ## Security
 
