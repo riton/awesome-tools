@@ -51,6 +51,10 @@ Tools that can't fit in any of the other categories.
 
 ### Python
 
+#### Language
+
+* [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+
 #### Web development
 
 * [pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. From frontend to backend.
