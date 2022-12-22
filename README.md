@@ -4,7 +4,7 @@
 
 Curated list of awesome tools I'm using or plan to use.
 
-Why another _awesome list_ you asked ? To keep track of the various tools I'm discovering or using. In a single place and easily editable.
+Why another _awesome list_ you asked ? To keep track of the various tools I'm discovering or using. In a single easily editable place.
 
 ## Contents
 
