@@ -95,6 +95,7 @@ Tools that can't fit in any of the other categories.
 ### Task scheduling
 
 * [cheek](https://github.com/datarootsio/cheek) - Crontab-like scHeduler for Effective Execution of tasKs based on YAML files.
+* [dagu](https://github.com/yohamta/dagu) - Cron alternative with a Web UI, but with much more capabilities.
 
 ## Programming
 
