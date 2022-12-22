@@ -15,6 +15,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [Images / Videos Processing](#images--videos-processing)
   * [Videos Processing](#videos-processing)
 * [Misc](#misc)
+* [Monitoring](#monitoring)
+  * [Network Monitoring](#network-monitoring)
 * [Programming](#programming)
   * [Tasks Runners](#tasks-runners)
   * [Test Helpers](#test-helpers)
@@ -52,6 +54,12 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 Tools that can't fit in any of the other categories.
 
 * [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder. With multiple 3rd party tools integration. Just **awesome**.
+
+## Monitoring
+
+### Network monitoring
+
+* [sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease.
 
 ## Programming
 
