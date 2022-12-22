@@ -161,6 +161,11 @@ Tools that can't fit in any of the other categories.
 
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares.
 
+### WAF
+
+* [coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
+* [ModSecurity coreruleset](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set.
+
 ### Secrets management
 
 * [infisical](https://github.com/Infisical/infisical) - Open-source, E2EE, simple tool to manage and sync environment variables across your team and infrastructure.
