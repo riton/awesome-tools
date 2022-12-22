@@ -76,10 +76,11 @@ Tools that can't fit in any of the other categories.
 
 ## Terminals
 
+* [warp](https://github.com/warpdotdev/Warp) - Blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. 
+
 ### Multiplexers
 
 * [zellij](https://github.com/zellij-org/zellij) - At its core, `zellij` is a terminal multiplexer (similar to `tmux` and GNU `screen`), but very simple to use and user-friendly.
-
 
 ## Text utils
 
