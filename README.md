@@ -31,6 +31,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Videos Processing](#videos-processing)
   - [Linux systems](#linux-systems)
     - [Debian like](#debian-like)
+    - [Software packages](#software-packages)
   - [Message Queues / Brokers](#message-queues--brokers)
   - [Misc](#misc)
   - [Monitoring](#monitoring)
@@ -145,6 +146,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Debian like
 
 * [aptly](https://github.com/aptly-dev/aptly) - Debian repository management tool.
+
+### Software packages
+
+* [nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go.
 
 ## Message Queues / Brokers
 
