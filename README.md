@@ -87,6 +87,7 @@ Tools that can't fit in any of the other categories.
 ## Terminals
 
 * [warp](https://github.com/warpdotdev/Warp) - Blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. 
+* [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust.
 
 ### Multiplexers
 
