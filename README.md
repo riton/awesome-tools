@@ -8,40 +8,47 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 ## Contents
 
-* [Code Versioning](#code-versioning)
-* [Databases](#databases--log-management)
-* [Domain Management](#domain-management)
-* [Emailing](#emailing)
-  * [Email Helpers](#email-helpers)
-* [File Sharing](#file-sharing)
-* [Images / Videos Processing](#images--videos-processing)
-  * [Videos Processing](#videos-processing)
-* [Linux Systems](#linux-systems)
-  * [Debian Like](#debian-like)
-* [Misc](#misc)
-* [Monitoring](#monitoring)
-  * [Network Monitoring](#network-monitoring)
-* [Notification](#notification)
-* [Orchestration / Task Scheduling](#orchestration--task-scheduling)
-  * [Task scheduling](#task-scheduling)
-* [Programming](#programming)
-  * [CSS](#css)
-  * [Go](#go)
-  * [Image Generation](#image-generation)
-  * [Javascript](#javascript)
-  * [Puppet](#puppet)
-  * [Python](#python)
-  * [Tasks Runners](#tasks-runners)
-  * [Test Helpers](#test-helpers)
-* [Security](#security)
-  * [Authorization](#authorization)
-  * [C.A / PKI](#ca--pki)
-  * [CTF](#ctf)
-  * [Secrets Management](#secrets-management)
-* [Sources / Versions Management](#sources--versions-management)
-* [Shells](#shells)
-* [Terminals](#terminals)
-* [Text utils](#text-utils)
+- [My personal awesome tools list](#my-personal-awesome-tools-list)
+  - [Contents](#contents)
+  - [Code versioning](#code-versioning)
+    - [Changelog management](#changelog-management)
+  - [Databases / Log management](#databases--log-management)
+  - [Domain Management](#domain-management)
+  - [Emailing](#emailing)
+    - [Email helpers](#email-helpers)
+  - [File sharing](#file-sharing)
+  - [Images / Videos Processing](#images--videos-processing)
+    - [Subtitles](#subtitles)
+    - [Videos Processing](#videos-processing)
+  - [Linux systems](#linux-systems)
+    - [Debian like](#debian-like)
+  - [Misc](#misc)
+  - [Monitoring](#monitoring)
+    - [Network monitoring](#network-monitoring)
+  - [Notification](#notification)
+  - [Orchestration / Task Scheduling](#orchestration--task-scheduling)
+    - [Task scheduling](#task-scheduling)
+  - [Programming](#programming)
+    - [CSS](#css)
+    - [Go](#go)
+    - [Image generation](#image-generation)
+    - [Javascript](#javascript)
+    - [Puppet](#puppet)
+    - [Python](#python)
+    - [Tasks runners](#tasks-runners)
+    - [Test Helpers](#test-helpers)
+  - [Security](#security)
+    - [Authorization](#authorization)
+    - [C.A / PKI](#ca--pki)
+    - [CTF](#ctf)
+    - [WAF](#waf)
+    - [Secrets management](#secrets-management)
+  - [Sources / Versions Management](#sources--versions-management)
+  - [Shells](#shells)
+    - [Sidecards](#sidecards)
+  - [Terminals](#terminals)
+    - [Multiplexers](#multiplexers)
+  - [Text utils](#text-utils)
 
 ## Code versioning
 
@@ -122,7 +129,7 @@ Tools that can't fit in any of the other categories.
 * [dns](https://github.com/miekg/dns) - DNS library in Go.
 * [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector to help avoid Goroutine leaks.
 
-#### Test utils
+#### Test utils <!-- omit in toc -->
 
 * [go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests. Awesome alternative to `reflect.DeepEqual`.
 
@@ -132,7 +139,7 @@ Tools that can't fit in any of the other categories.
 
 ### Javascript
 
-#### Misc
+#### Misc <!-- omit in toc -->
 
 * [bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. Written in `zig`.
 
@@ -144,15 +151,15 @@ Tools that can't fit in any of the other categories.
 
 ### Python
 
-#### Language
+#### Language <!-- omit in toc -->
 
 * [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 
-#### Profiling
+#### Profiling <!-- omit in toc -->
 
 * [scalene](https://github.com/plasma-umass/scalene) - High-performance, high-precision CPU, GPU, and memory profiler for Python 
 
-#### Web development
+#### Web development <!-- omit in toc -->
 
 * [pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python. From frontend to backend.
 
