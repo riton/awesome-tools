@@ -12,7 +12,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Contents](#contents)
   - [API Gateways](#api-gateways)
   - [Backup](#backup)
-  - [Books](#books)
+  - [Books / Training](#books--training)
+    - [Containers](#containers)
     - [Typescript](#typescript)
   - [CLIs](#clis)
     - [JSON](#json)
@@ -78,7 +79,11 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 * [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
 
-## Books
+## Books / Training
+
+### Containers
+
+* [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 
 ### Typescript
 
