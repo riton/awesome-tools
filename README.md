@@ -12,6 +12,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 * [File Sharing](#file-sharing)
 * [Misc](#misc)
 * [Programming](#programming)
+  * [Tasks Runners](#tasks-runners)
   * [Python](#python)
 * [Secrets Management](#secrets-management)
 * [Shells](#shells)
@@ -35,6 +36,10 @@ Tools that can't fit in any of the other categories.
 * [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder. With multiple 3rd party tools integration. Just **awesome**.
 
 ## Programming
+
+### Tasks runners
+
+* [task](https://github.com/go-task/task) - Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
 
 ### Python
 
