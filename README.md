@@ -44,6 +44,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 
 ## Databases
 
+* [dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 * [parseable](https://github.com/parseablehq/parseable) - Lightweight, high performance, cloud native alternative to Elasticsearch.
 * [sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 
