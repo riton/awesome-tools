@@ -192,6 +192,10 @@ Tools that can't fit in any of the other categories.
 * [optional](https://github.com/antihax/optional) - Optional parameters for go.
 * [pie](https://github.com/elliotchance/pie) - A utility library for dealing with slices and maps that focuses on type safety and performance.
 
+##### Concurrency <!-- omit in toc -->
+
+* [workerpool](https://github.com/gammazero/workerpool) - Concurrency limiting goroutine pool.
+
 ##### Config management <!-- omit in toc -->
 
 * [koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
