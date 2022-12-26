@@ -20,6 +20,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [HTTP Clients](#http-clients)
   - [Code versioning](#code-versioning)
     - [Changelog management](#changelog-management)
+  - [Collaboration](#collaboration)
+    - [Screen Sharing](#screen-sharing)
   - [Databases / Log management](#databases--log-management)
   - [Domain Management](#domain-management)
   - [Emailing](#emailing)
@@ -105,6 +107,12 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Changelog management
 
 * [changie](https://github.com/miniscruff/changie) - Separate your changelog from commit messages without conflicts
+
+## Collaboration
+
+### Screen Sharing
+
+* [screego](https://github.com/screego/server) - Screen sharing for developers
 
 ## Databases / Log management
 
