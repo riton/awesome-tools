@@ -51,6 +51,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Python](#python)
     - [Tasks runners](#tasks-runners)
     - [Test Helpers](#test-helpers)
+    - [Shell](#shell)
+    - [Unit testing](#unit-testing)
   - [Templating](#templating)
     - [Files templating](#files-templating)
     - [Projects templating](#projects-templating)
@@ -288,6 +290,12 @@ Tools that can't fit in any of the other categories.
 
 * [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text.
 * [smocker](https://github.com/Thiht/smocker) - Simple and efficient HTTP mock server and proxy.
+
+### Shell
+
+### Unit testing
+
+* [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
 ## Templating
 
