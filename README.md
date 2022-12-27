@@ -52,7 +52,6 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
     - [Tasks runners](#tasks-runners)
     - [Test Helpers](#test-helpers)
     - [Shell](#shell)
-    - [Unit testing](#unit-testing)
   - [Templating](#templating)
     - [Files templating](#files-templating)
     - [Projects templating](#projects-templating)
@@ -293,7 +292,11 @@ Tools that can't fit in any of the other categories.
 
 ### Shell
 
-### Unit testing
+### Linters / Formaters <!-- omit in toc -->
+
+* [shfmt](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support. Includes `shfmt`.
+
+### Unit testing <!-- omit in toc -->
 
 * [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 
