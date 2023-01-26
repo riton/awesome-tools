@@ -74,6 +74,8 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Text utils](#text-utils)
   - [Virtualization / Containerization](#virtualization--containerization)
     - [Misc](#misc-2)
+  - [Websites](#websites)
+    - [CheatSheets / References](#cheatsheets--references)
 
 ## API Gateways
 
@@ -391,3 +393,9 @@ Tools that can't fit in any of the other categories.
 ### Misc
 
 * [footloose](https://github.com/weaveworks/footloose) - Container Machines - Containers that look like Virtual Machines.
+
+## Websites
+
+### CheatSheets / References
+
+* [quickref.me](https://quickref.me/) - Awesome _cheatsheets_ and quick references for multiple tools and languages. All contributed by open source angels
