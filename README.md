@@ -15,6 +15,7 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
   - [Books / Training](#books--training)
     - [Containers](#containers)
     - [Typescript](#typescript)
+  - [CI / CD](#ci--cd)
   - [CLIs](#clis)
     - [JSON](#json)
     - [HTTP Clients](#http-clients)
@@ -94,6 +95,10 @@ Why another _awesome list_ you asked ? To keep track of the various tools I'm di
 ### Typescript
 
 * [typescript-book](https://github.com/basarat/typescript-book) - The definitive guide to TypeScript and possibly the best TypeScript book book. Free and Open Source.
+
+## CI / CD
+
+* [zuul-ci](https://opendev.org/zuul/zuul) - The Gatekeeper, or a project gating system.
 
 ## CLIs
 
